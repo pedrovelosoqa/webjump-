@@ -1,0 +1,11 @@
+SO Ubuntu 20.04.3 LTS
+ChromeDriver 96.0.4664.45
+
+
+#ambiente robotframework
+
+robotframework==4.1.3
+robotframework-seleniumlibrary==6.0.0
+PyYAML==6.0
+robotframework-debuglibrary==2.2.2
+robotframework-faker==5.0.0
